@@ -1,0 +1,21 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: El directorio intermedio (x64\Debug\) contiene archivos compartidos de otro proyecto (MoonPhases.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  camara.cpp
+  main.cpp
+C:\Users\PC\Desktop\Proyecto_SistemaSolar - copia\MoonPhases\main.cpp(54,43): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\PC\Desktop\Proyecto_SistemaSolar - copia\MoonPhases\main.cpp(63,25): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\PC\Desktop\Proyecto_SistemaSolar - copia\MoonPhases\main.cpp(78,28): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\PC\Desktop\Proyecto_SistemaSolar - copia\MoonPhases\main.cpp(78,33): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\PC\Desktop\Proyecto_SistemaSolar - copia\MoonPhases\main.cpp(78,38): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\PC\Desktop\Proyecto_SistemaSolar - copia\MoonPhases\main.cpp(87,29): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\PC\Desktop\Proyecto_SistemaSolar - copia\MoonPhases\main.cpp(87,34): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\PC\Desktop\Proyecto_SistemaSolar - copia\MoonPhases\main.cpp(87,39): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\PC\Desktop\Proyecto_SistemaSolar - copia\MoonPhases\main.cpp(110,40): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\PC\Desktop\Proyecto_SistemaSolar - copia\MoonPhases\main.cpp(149,34): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  luna.cpp
+  planeta.cpp
+  sistemasolar.cpp
+  tga.cpp
+C:\Users\PC\Desktop\Proyecto_SistemaSolar - copia\MoonPhases\tga.cpp(38,18): warning C4101: 'j': variable local sin referencia
+  Generando código...
+C:\Users\PC\Desktop\Proyecto_SistemaSolar - copia\MoonPhases\planeta.cpp(143): warning C4172: devolución de dirección de la variable local o temporal: vec
+  MoonPhases.vcxproj -> C:\Users\PC\Desktop\Proyecto_SistemaSolar - copia\x64\Debug\SistemaSolar_T3.exe
