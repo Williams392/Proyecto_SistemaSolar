@@ -12,27 +12,25 @@ Then run `./moonPhases.exe`.
 
 ## Controls
 ```
-+       increases speed
--       decreases speed
-o       show orbits
-w       camera forward
-s       camera backward
-a       camera left
-d       camera right
-l       camera roll right
-j       camera roll left
-i       camera pitch down
-k       camera pitch up
-q       camera yaw left
-e       camera yaw right
-.       increase camera speed
-,       decrease camera speed
++       aumenta la velocidad
+-       disminuye la velocidad
+o       mostrar órbitas
+w       cámara hacia adelante
+s       cámara hacia atrás
+a       cámara hacia la izquierda
+d       cámara hacia la derecha
+l       cámara hacia la derecha
+j       girar cámara a la izquierda
+i       inclinar cámara hacia abajo
+k       inclinar cámara hacia arriba
+q       girar cámara a la izquierda
+e       girar cámara a la derecha
+.       aumentar velocidad de la cámara
+,       aumentar velocidad de la cámara
 ```
 
 ## Outer View
-![alt text](http://i.imgur.com/qEaAJh5.jpg "Outer View")
-
-[See it in action here!](https://www.youtube.com/watch?v=gjB-TBw-Pcc)
+![alt text](https://i.imgur.com/QeVfu2k.png "Outer View")
 
 ### License
  - MIT License
