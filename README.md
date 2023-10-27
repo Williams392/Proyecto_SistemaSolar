@@ -1,14 +1,10 @@
-# Moon-Phases
-NupenGL model of moon phases for Astronomy PHYS 102.
-(Releases available have pre-compiled versions of the program)
+# Proyecto_SistemaSolar
+Modelo NupenGL del sistema solar v1
 
 ## Dev Install Instructions
-Clone repository
-`git clone https://github.com/chernandez7/Moon-Phases.git`
+Clone repositorio
+`git clone https://github.com/Williams392/Proyecto_SistemaSolar.git`
 
-Either build with Visual studio or navigate to `.\Moonphases\` and run `make` (if on Linux/Mac).
-
-Then run `./moonPhases.exe`.
 
 ## Controls
 ```
@@ -32,7 +28,4 @@ e       girar cámara a la derecha
 ## Outer View
 ![alt text](https://i.imgur.com/QeVfu2k.png "Outer View")
 
-### License
- - MIT License
 
-# Proyecto_SistemaSolar
