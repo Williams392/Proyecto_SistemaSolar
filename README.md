@@ -1,12 +1,12 @@
 # Proyecto_SistemaSolar
 Modelo NupenGL del sistema solar v1
 
-## Dev Install Instructions
+## Instrucciones de instalación para desarrolladores:
 Clone repositorio
 `git clone https://github.com/Williams392/Proyecto_SistemaSolar.git`
 
 
-## Controls
+## Controles:
 ```
 +       aumenta la velocidad
 -       disminuye la velocidad
@@ -25,7 +25,7 @@ e       girar cámara a la derecha
 ,       aumentar velocidad de la cámara
 ```
 
-## Outer View
+## Vista del Proyecto:
 ![alt text](https://i.imgur.com/QeVfu2k.png "Outer View")
 
 
