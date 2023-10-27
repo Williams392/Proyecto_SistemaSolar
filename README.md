@@ -1,7 +1,7 @@
 # Proyecto_SistemaSolar
 Modelo NupenGL del sistema solar v1
 
-## Instrucciones de instalación para desarrolladores:
+## Instrucciones de instalación para dev:
 Clone repositorio
 `git clone https://github.com/Williams392/Proyecto_SistemaSolar.git`
 
